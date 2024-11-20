@@ -18,7 +18,7 @@ fi
 ```
 - Now run this script using below command
 ```bash
-[ -f "hemifee.sh" ] && rm hemifee.sh; curl -sSL -o hemifee.sh https://raw.githubusercontent.com/zunxbt/pop-mining/refs/heads/main/hemifee.sh && chmod +x hemifee.sh && ./hemifee.sh
+[ -f "hemifee.sh" ] && rm hemifee.sh; curl -sSL -o hemifee.sh https://raw.githubusercontent.com/stephenahmeed/hemi-pop-mining/refs/heads/main/hemifee.sh && chmod +x hemifee.sh && ./hemifee.sh
 ```
 - **Now press `Ctrl` + `A` + `D` (VERY IMP) after that u can close your VPS**
 - DONE, it will automatically fetch the fee and will update in the service file in every 10 mins

@@ -3,7 +3,7 @@
 ## VPS Configuration
 - You can start PoP mining either using VPS or using Ubuntu on your local system, I will go with a normal VPS
 - RAM : 2 GB, Storage : 50 GB, CPU : 2 Core
-- If you want, you can buy from [PQ Hosting](https://pq.hosting/?from=622403&lang=en) using crypto currency
+- If you want, you can buy from [PQ Hosting](https://pq.hosting/?from=715013&lang=en) using crypto currency
 
 ## Installation
 ```bash
